@@ -1,0 +1,17 @@
+{
+  "name": "2cypress",
+  "version": "1.0.0",
+  "description": "cypress demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "rofik",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
