@@ -1,5 +1,3 @@
-# MySkill-Cypress
-
 This repo is the source code reference for case study Cypress Automation (Modul 12) in myskill.i d QA course. Please register in myskill.id to understand about this repo. 
 
 How to run this repo
